@@ -16,11 +16,6 @@
         }
     },
     "forwardPorts": [8080],
-    "remoteUser": "vscode",
-
-    "build": {
-    "dockerfile": "Dockerfile"
-}
-
+    "remoteUser": "vscode"
 }
 
